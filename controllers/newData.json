@@ -1,0 +1,13 @@
+{
+  "description": "Nft tokens made ",
+  "image": "https://gateway.ipfs.io/ipfs/QmdQjy6HdysMhjfoEibnNzDUi8YD8JE4VBCAuneMv4Va4K",
+  "external_url": "https://openseacreatures.io/13",
+  "attributes": [
+    { "trait_type": "BackGround", "value": "GREEN" },
+    { "trait_type": "GENDER", "value": "female" },
+    { "trait_type": "Eyes", "value": "WINK" },
+    { "trait_type": "Mouth", "value": "CLOSED" },
+    { "trait_type": "Cloths", "value": "SILVER" },
+    { "trait_type": "Hairs", "value": "SIDE-BRAID" }
+  ]
+}
